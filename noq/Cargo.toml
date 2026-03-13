@@ -1,6 +1,6 @@
 [package]
-name = "iroh-quinn"
-version = "0.16.1"
+name = "noq"
+version = "0.17.0"
 license.workspace = true
 repository.workspace = true
 description = "General purpose QUIC transport protocol implementation"
